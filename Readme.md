@@ -3,7 +3,9 @@
 ## Site pessoal de um profissional cabelereiro
 
 <h1 align="center">
-    <img alt="DanielMatos" title="#DanielMatos" src="./assets/banner.png" />
+    <a href="danielmatos.gear.host">
+        <img alt="DanielMatos" title="#DanielMatos" src="./assets/banner.png" />
+    </a>
 </h1>
 
 ![Badge](https://img.shields.io/badge/Site-DanielMatos-%23DAA520?style=for-the-badge&logo=ghost)
