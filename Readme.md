@@ -1,6 +1,6 @@
-#Projeto Web Site Daniel Matos
+# Projeto Web Site Daniel Matos
 
-##Site pessoal de um profissional cabelereiro
+## Site pessoal de um profissional cabelereiro
 
 <h1 align="center">
     <img alt="DanielMatos" title="#DanielMatos" src="./assets/banner.png" />
