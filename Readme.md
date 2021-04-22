@@ -22,9 +22,13 @@
 ---
 <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/63553960?s=60&v=4" width="100px" alt=""/>
 <br/>
-<sub><b>Michel Matos</b></sub>🚀
+<sub><b>Michel Matos</b></sub> 🚀
 
 Feito com ❤️ por Michel Matos 👋🏽 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Michel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michel-matos-de-oliveira-a36056191/)](https://www.linkedin.com/in/michel-matos-de-oliveira-a36056191/)
 [![Gmail Badge](https://img.shields.io/badge/-michel.mef@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michel.mef@gmail.com)](mailto:michel.mef@gmail.com) 
+
+### Licença
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
