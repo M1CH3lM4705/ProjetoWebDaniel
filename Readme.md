@@ -32,5 +32,5 @@ Feito com ❤️ por Michel Matos 👋🏽 Entre em contato!
 [![Gmail Badge](https://img.shields.io/badge/-michel.mef@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michel.mef@gmail.com)](mailto:michel.mef@gmail.com) 
 
 ### Licença
-
+---
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
